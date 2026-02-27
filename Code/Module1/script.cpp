@@ -2,6 +2,7 @@
 void Main()
 	{
 		# Commentaire supplémentaire
+		# Ce commentaire vient de la branche DEV-GIR
 		Console.Writeline();
 		Console.Writeline("Hello World !!");
 		Console.Writeline();	
